@@ -1,6 +1,6 @@
 # Plotting Bernoulli trials
 
-We are now going to combine what you did  the previous exercise with what you did in the previous.  You are going to generate 100 Bernoulli random variables and you are going to draw a scatter plot graph showing the values of all these random variables.
+This exercise should be a simple revision of what we did last week.  I want you to generate 100 Bernoulli random variables and draw  a graph showing the values of all these random variables.
 
 To complete this exercise you will need to:
 
